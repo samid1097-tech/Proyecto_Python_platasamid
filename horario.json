@@ -1,0 +1,9 @@
+[
+    {
+        "materia": "matematicas",
+        "dia": "lunes",
+        "hora_inicio": "10:00",
+        "hora_fin": "12:00",
+        "salon": "salon 102"
+    }
+]
