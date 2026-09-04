@@ -5,5 +5,19 @@
         "hora_inicio": "10:00",
         "hora_fin": "12:00",
         "salon": "salon 102"
+    },
+    {
+        "materia": "ingles",
+        "dia": "martes",
+        "hora_inicio": "15:00",
+        "hora_fin": "17:00",
+        "salon": "salon 89"
+    },
+    {
+        "materia": "programacion",
+        "dia": "viernes",
+        "hora_inicio": "14:00",
+        "hora_fin": "16:00",
+        "salon": "martes"
     }
 ]
