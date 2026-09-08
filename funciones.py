@@ -33,9 +33,9 @@ def ver_horario():
             if materia["dia"] == dia:
                 materias_dia.append(materia)
         if materias_dia:
-            print(f"\n {dia.upper()} ")
+            print(f" {dia.upper()} ")
             for materia in materias_dia:
-                print(
+                print(    
                     f"Materia: {materia['materia']}\n"
                     f"Hora: {materia['hora_inicio']} - {materia['hora_fin']}\n"
                     f"Salón: {materia['salon']}\n"

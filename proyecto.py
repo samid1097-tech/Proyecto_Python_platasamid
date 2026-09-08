@@ -37,6 +37,7 @@ def registrar_materia():
 
     salon = input("Por favor ingrese el salón de la materia: ")
 
+
     for materia_guardada in horario:
         if materia_guardada["dia"] == dia:
 
@@ -85,7 +86,7 @@ while True:
     print("6. Salir")
 
     try:
-        opcion = int(input("\nSeleccione una opción: "))
+        opcion = int(input("Seleccione una opción: "))
     except ValueError:
         print("Por favor ingrese un número.")
         continue
