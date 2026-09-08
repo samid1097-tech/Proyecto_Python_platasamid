@@ -1,6 +1,9 @@
 import json
 from datetime import datetime
 
+#prueba
+
+
 def ver_horario():
     try:
         with open("horario.json", "r") as archivo:
